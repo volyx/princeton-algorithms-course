@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c1e4f978-b3bd-4ae1-84e9-9e1170bce808" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="DISPLAY_NOTIFICATION_POPUP" value="false" />
+    <option name="CLEAR_OUTPUT_DIRECTORY" value="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+    <option name="SCHEME" value="Project" />
+  </component>
+  <component name="FindBugs-IDEA-Workspace">
+    <analyzeAfterCompile>true</analyzeAfterCompile>
+    <toolWindowToFront>false</toolWindowToFront>
+    <toolWindowEditorPreview>false</toolWindowEditorPreview>
+  </component>
+  <component name="ProjectId" id="1ndoJGasu3U4CYGso0uMYu4r9O2" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showModules" value="false" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ToolWindowMessages.ShowToolbar" value="false" />
+    <property name="ToolWindowRun.ShowToolbar" value="false" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="settings.saveactions" />
+  </component>
+  <component name="RunManager" selected="Application.FastCollinearPoints">
+    <configuration name="BruteCollinearPoints" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="BruteCollinearPoints" />
+      <module name="Algorithms, Part I" />
+      <option name="PROGRAM_PARAMETERS" value="input10.txt" />
+      <method v="2" />
+    </configuration>
+    <configuration name="FastCollinearPoints" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="FastCollinearPoints" />
+      <module name="Algorithms, Part I" />
+      <option name="PROGRAM_PARAMETERS" value="input8.txt" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Point" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Point" />
+      <module name="Algorithms, Part I" />
+      <option name="PROGRAM_PARAMETERS" value="input8.txt" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="803" y="193" key="#com.intellij.ide.util.MemberChooser" timestamp="1611911496991">
+      <screen x="73" y="25" width="1719" height="1095" />
+    </state>
+    <state x="803" y="193" key="#com.intellij.ide.util.MemberChooser/73.25.1719.1095@73.25.1719.1095" timestamp="1611911496991" />
+    <state x="759" y="196" key="#xdebugger.evaluate" timestamp="1611985247804">
+      <screen x="73" y="25" width="1719" height="1095" />
+    </state>
+    <state x="759" y="196" key="#xdebugger.evaluate/73.25.1719.1095@73.25.1719.1095" timestamp="1611985247804" />
+    <state width="514" height="466" key="DebuggerActiveHint" timestamp="1611991228736">
+      <screen x="73" y="25" width="1719" height="1095" />
+    </state>
+    <state width="514" height="466" key="DebuggerActiveHint/73.25.1719.1095@73.25.1719.1095" timestamp="1611991228736" />
+    <state width="1348" height="334" key="GridCell.Tab.0.bottom" timestamp="1611991396072">
+      <screen x="73" y="25" width="1719" height="1095" />
+    </state>
+    <state width="1348" height="334" key="GridCell.Tab.0.bottom/73.25.1719.1095@73.25.1719.1095" timestamp="1611991396072" />
+    <state width="1348" height="334" key="GridCell.Tab.0.center" timestamp="1611991396071">
+      <screen x="73" y="25" width="1719" height="1095" />
+    </state>
+    <state width="1348" height="334" key="GridCell.Tab.0.center/73.25.1719.1095@73.25.1719.1095" timestamp="1611991396071" />
+    <state width="1348" height="334" key="GridCell.Tab.0.left" timestamp="1611991396071">
+      <screen x="73" y="25" width="1719" height="1095" />
+    </state>
+    <state width="1348" height="334" key="GridCell.Tab.0.left/73.25.1719.1095@73.25.1719.1095" timestamp="1611991396071" />
+    <state width="1348" height="334" key="GridCell.Tab.0.right" timestamp="1611991396072">
+      <screen x="73" y="25" width="1719" height="1095" />
+    </state>
+    <state width="1348" height="334" key="GridCell.Tab.0.right/73.25.1719.1095@73.25.1719.1095" timestamp="1611991396072" />
+    <state width="1348" height="334" key="GridCell.Tab.1.bottom" timestamp="1611991396073">
+      <screen x="73" y="25" width="1719" height="1095" />
+    </state>
+    <state width="1348" height="334" key="GridCell.Tab.1.bottom/73.25.1719.1095@73.25.1719.1095" timestamp="1611991396073" />
+    <state width="1348" height="334" key="GridCell.Tab.1.center" timestamp="1611991396072">
+      <screen x="73" y="25" width="1719" height="1095" />
+    </state>
+    <state width="1348" height="334" key="GridCell.Tab.1.center/73.25.1719.1095@73.25.1719.1095" timestamp="1611991396072" />
+    <state width="1348" height="334" key="GridCell.Tab.1.left" timestamp="1611991396072">
+      <screen x="73" y="25" width="1719" height="1095" />
+    </state>
+    <state width="1348" height="334" key="GridCell.Tab.1.left/73.25.1719.1095@73.25.1719.1095" timestamp="1611991396072" />
+    <state width="1348" height="334" key="GridCell.Tab.1.right" timestamp="1611991396073">
+      <screen x="73" y="25" width="1719" height="1095" />
+    </state>
+    <state width="1348" height="334" key="GridCell.Tab.1.right/73.25.1719.1095@73.25.1719.1095" timestamp="1611991396073" />
+    <state x="726" y="223" width="603" height="524" key="StructurePopup" timestamp="1611991909684">
+      <screen x="73" y="25" width="1719" height="1095" />
+    </state>
+    <state x="726" y="223" width="603" height="524" key="StructurePopup/73.25.1719.1095@73.25.1719.1095" timestamp="1611991909684" />
+    <state width="500" height="445" key="SwitcherDM" timestamp="1611991800787">
+      <screen x="73" y="25" width="1719" height="1095" />
+    </state>
+    <state width="500" height="445" key="SwitcherDM/73.25.1719.1095@73.25.1719.1095" timestamp="1611991800787" />
+    <state x="734" y="218" key="extract.method.dialog" timestamp="1611986145044">
+      <screen x="73" y="25" width="1719" height="1095" />
+    </state>
+    <state x="734" y="218" key="extract.method.dialog/73.25.1719.1095@73.25.1719.1095" timestamp="1611986145044" />
+    <state x="677" y="119" width="635" height="735" key="find.popup" timestamp="1611991995293">
+      <screen x="73" y="25" width="1719" height="1095" />
+    </state>
+    <state x="677" y="119" width="635" height="735" key="find.popup/73.25.1719.1095@73.25.1719.1095" timestamp="1611991995293" />
+    <state x="661" y="234" width="670" height="676" key="search.everywhere.popup" timestamp="1611986862327">
+      <screen x="73" y="25" width="1719" height="1095" />
+    </state>
+    <state x="661" y="234" width="670" height="676" key="search.everywhere.popup/73.25.1719.1095@73.25.1719.1095" timestamp="1611986862327" />
+  </component>
+</project>

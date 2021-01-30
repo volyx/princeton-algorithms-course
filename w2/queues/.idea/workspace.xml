@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c1e4f978-b3bd-4ae1-84e9-9e1170bce808" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="DISPLAY_NOTIFICATION_POPUP" value="false" />
+    <option name="CLEAR_OUTPUT_DIRECTORY" value="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="SCHEME" value="Project" />
+  </component>
+  <component name="FindBugs-IDEA-Workspace">
+    <analyzeAfterCompile>true</analyzeAfterCompile>
+    <toolWindowToFront>false</toolWindowToFront>
+  </component>
+  <component name="ProjectId" id="1nJwz3uMa6M1s8XEk7uXOcPohOE" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showModules" value="false" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ToolWindowMessages.ShowToolbar" value="false" />
+    <property name="ToolWindowRun.ShowToolbar" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="settings.saveactions" />
+  </component>
+  <component name="RunManager" selected="Application.RandomizedQueue">
+    <configuration name="Deque" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Deque" />
+      <module name="Algorithms, Part I" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Permutation" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Permutation" />
+      <module name="Algorithms, Part I" />
+      <option name="PROGRAM_PARAMETERS" value="5" />
+      <method v="2" />
+    </configuration>
+    <configuration name="RandomizedQueue" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="RandomizedQueue" />
+      <module name="Algorithms, Part I" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="686" y="228" key="#com.intellij.ide.util.MemberChooser" timestamp="1611502809501">
+      <screen x="73" y="25" width="1719" height="1095" />
+    </state>
+    <state x="686" y="228" key="#com.intellij.ide.util.MemberChooser/73.25.1719.1095@73.25.1719.1095" timestamp="1611502809501" />
+    <state width="499" height="466" key="DebuggerActiveHint" timestamp="1611503190093">
+      <screen x="73" y="25" width="1719" height="1095" />
+    </state>
+    <state width="499" height="466" key="DebuggerActiveHint/73.25.1719.1095@73.25.1719.1095" timestamp="1611503190093" />
+    <state width="1348" height="207" key="GridCell.Tab.0.bottom" timestamp="1611553233605">
+      <screen x="73" y="25" width="1719" height="1095" />
+    </state>
+    <state width="1348" height="207" key="GridCell.Tab.0.bottom/73.25.1719.1095@73.25.1719.1095" timestamp="1611553233605" />
+    <state width="1348" height="207" key="GridCell.Tab.0.center" timestamp="1611553233605">
+      <screen x="73" y="25" width="1719" height="1095" />
+    </state>
+    <state width="1348" height="207" key="GridCell.Tab.0.center/73.25.1719.1095@73.25.1719.1095" timestamp="1611553233605" />
+    <state width="1348" height="207" key="GridCell.Tab.0.left" timestamp="1611553233605">
+      <screen x="73" y="25" width="1719" height="1095" />
+    </state>
+    <state width="1348" height="207" key="GridCell.Tab.0.left/73.25.1719.1095@73.25.1719.1095" timestamp="1611553233605" />
+    <state width="1348" height="207" key="GridCell.Tab.0.right" timestamp="1611553233605">
+      <screen x="73" y="25" width="1719" height="1095" />
+    </state>
+    <state width="1348" height="207" key="GridCell.Tab.0.right/73.25.1719.1095@73.25.1719.1095" timestamp="1611553233605" />
+    <state width="1348" height="207" key="GridCell.Tab.1.bottom" timestamp="1611553233606">
+      <screen x="73" y="25" width="1719" height="1095" />
+    </state>
+    <state width="1348" height="207" key="GridCell.Tab.1.bottom/73.25.1719.1095@73.25.1719.1095" timestamp="1611553233606" />
+    <state width="1348" height="207" key="GridCell.Tab.1.center" timestamp="1611553233605">
+      <screen x="73" y="25" width="1719" height="1095" />
+    </state>
+    <state width="1348" height="207" key="GridCell.Tab.1.center/73.25.1719.1095@73.25.1719.1095" timestamp="1611553233605" />
+    <state width="1348" height="207" key="GridCell.Tab.1.left" timestamp="1611553233605">
+      <screen x="73" y="25" width="1719" height="1095" />
+    </state>
+    <state width="1348" height="207" key="GridCell.Tab.1.left/73.25.1719.1095@73.25.1719.1095" timestamp="1611553233605" />
+    <state width="1348" height="207" key="GridCell.Tab.1.right" timestamp="1611553233606">
+      <screen x="73" y="25" width="1719" height="1095" />
+    </state>
+    <state width="1348" height="207" key="GridCell.Tab.1.right/73.25.1719.1095@73.25.1719.1095" timestamp="1611553233606" />
+    <state x="609" y="258" width="603" height="524" key="StructurePopup" timestamp="1611553101342">
+      <screen x="73" y="25" width="1719" height="1095" />
+    </state>
+    <state x="609" y="258" width="603" height="524" key="StructurePopup/73.25.1719.1095@73.25.1719.1095" timestamp="1611553101342" />
+    <state width="500" height="445" key="SwitcherDM" timestamp="1611504172624">
+      <screen x="73" y="25" width="1719" height="1095" />
+    </state>
+    <state width="500" height="445" key="SwitcherDM/73.25.1719.1095@73.25.1719.1095" timestamp="1611504172624" />
+    <state x="627" y="290" key="refactoring.ChangeSignatureDialog" timestamp="1611298520625">
+      <screen x="73" y="25" width="1719" height="1095" />
+    </state>
+    <state x="627" y="290" key="refactoring.ChangeSignatureDialog/73.25.1719.1095@73.25.1719.1095" timestamp="1611298520625" />
+    <state x="574" y="279" width="670" height="676" key="search.everywhere.popup" timestamp="1611553093487">
+      <screen x="73" y="25" width="1719" height="1095" />
+    </state>
+    <state x="574" y="279" width="670" height="676" key="search.everywhere.popup/73.25.1719.1095@73.25.1719.1095" timestamp="1611553093487" />
+  </component>
+</project>

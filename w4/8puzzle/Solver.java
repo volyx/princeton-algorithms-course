@@ -24,14 +24,13 @@ public class Solver {
 
         final MinPQ<SearchNode> minPQ = new MinPQ<>();
 
-        minPQ.insert(new SearchNode(null, initial, initial.manhattan()));
-        minPQ.insert(new SearchNode(null, initial.twin(), initial.twin().manhattan()));
+        minPQ.insert(new SearchNode(null, initial));
+        minPQ.insert(new SearchNode(null, initial.twin()));
 
         while (!minPQ.min().board.isGoal()) {
             final SearchNode searchNode = minPQ.delMin();
             for (Board childBoard : searchNode.board.neighbors()) {
-                SearchNode childNode = new SearchNode(searchNode, childBoard,
-                                                      childBoard.manhattan());
+                SearchNode childNode = new SearchNode(searchNode, childBoard);
                 if (isAncestors(searchNode, childNode)) {
                     continue;
                 }
@@ -58,7 +57,10 @@ public class Solver {
         if (searchNode.previous == null) {
             return false;
         }
-        if (searchNode.manhattan != childNode.manhattan) {
+        if (searchNode.previous.hamming != childNode.hamming) {
+            return false;
+        }
+        if (searchNode.previous.manhattan != childNode.manhattan) {
             return false;
         }
         return searchNode.previous.board.equals(childNode.board);
@@ -84,13 +86,15 @@ public class Solver {
         private final SearchNode previous;
         private final Board board;
         private final int moves;
+        private final int hamming;
         private final int manhattan;
 
-        private SearchNode(SearchNode previous, Board board, int manhattan) {
+        private SearchNode(SearchNode previous, Board board) {
             this.previous = previous;
             this.board = board;
             this.moves = previous == null ? 0 : previous.moves + 1;
-            this.manhattan = manhattan;
+            this.hamming = board.hamming();
+            this.manhattan = board.manhattan();
         }
 
         public int compareTo(SearchNode that) {
